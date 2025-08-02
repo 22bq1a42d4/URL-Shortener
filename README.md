@@ -8,10 +8,14 @@ A modern, 100% client-side URL shortener built with React and Material UI. Creat
 
 ## 📸 Dashboard Preview
 
-Here’s a look at the main dashboard where you can manage all your shortened URLs.
+Explore key sections of the application in action. Click any image to view in full size.
 
-![React URL Shortener Dashboard](https://placehold.co/800x450/1a1a1a/ffffff?text=Your+App+Screenshot+Here)
-<!--- 👆 REPLACE THIS PLACEHOLDER with a screenshot of your application's dashboard. -->
+<table> <tr> <td align="center"> <a href="https://placehold.co/1280x720?text=Main+Dashboard" target="_blank"> <img src="<img width="1880" height="677" alt="Screenshot 2025-08-02 172006" src="https://github.com/user-attachments/assets/eaa24f4f-7452-4f12-92e0-d4ebd39c4ad2" />
+" alt="Main Dashboard" /> </a> <br/><sub><b>Main Dashboard</b></sub> </td> <td align="center"> <a href="https://placehold.co/1280x720?text=URL+Shortener" target="_blank"> <img src="<img width="875" height="854" alt="Screenshot 2025-08-02 172039" src="https://github.com/user-attachments/assets/fad123ec-d9e9-4741-b613-6cdecc5dc715" />
+" alt="URL Shortener" /> </a> <br/><sub><b>URL Shortener</b></sub> </td> <td align="center"> <a href="https://placehold.co/1280x720?text=Recent+URLs" target="_blank"> <img src="<img width="872" height="625" alt="Screenshot 2025-08-02 172056" src="https://github.com/user-attachments/assets/6089f65e-6c8b-4c80-aefb-d494c8074369" />
+" /> </a> <br/><sub><b>Recent URLs</b></sub> </td> </tr> <tr> <td align="center"> <a href="https://placehold.co/1280x720?text=Analytics+Dashboard" target="_blank"> <img src="<img width="1866" height="748" alt="Screenshot 2025-08-02 172123" src="https://github.com/user-attachments/assets/e31e822d-aed3-4536-b9fa-30f15214cbbf" />
+" alt="Detailed Analytics" /> </a> <br/><sub><b>Detailed Analytics</b></sub> </td> <td align="center"> <a href="https://placehold.co/1280x720?text=URL+Statistics" target="_blank"> <img src="<img width="1843" height="873" alt="Screenshot 2025-08-02 172145" src="https://github.com/user-attachments/assets/0859ca73-e1eb-4158-942e-a7e1725e5f24" />
+" alt="URL Statistics" /> </a> <br/><sub><b>URL Statistics</b></sub> </td> <td></td> <!-- Empty cell for symmetry --> </tr> </table>
 
 ---
 

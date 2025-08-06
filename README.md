@@ -1,10 +1,43 @@
-# 🚀 React URL Shortener
+<h1 align="center">🚀 React URL Shortener</h1>
 
-A modern, fully client-side URL shortener built using **React** and **Material UI**, offering a seamless way to create, manage, and track short links — all within your browser. Designed with performance, usability, and privacy in mind, this application functions without any backend or server dependency.
+<p align="center">
+  A modern, <strong>fully client-side</strong> URL shortener built with <strong>React</strong> and <strong>Material UI</strong>, offering a seamless way to create, manage, and track short links — all within your browser.
+</p>
 
-Whether you're looking to generate compact URLs for sharing, monitor click analytics, or manage a personal collection of shortened links, this tool provides a streamlined and efficient experience with zero setup required.
+<p align="center">
+  Designed with <strong>performance</strong>, <strong>privacy</strong>, and <strong>zero dependencies</strong> in mind. No backend. No database. Just React, pure functionality, and elegant design.
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+ 
+</div>
+
+<br/>
+
+<div align="center">
+
+✨ <strong>Experience it Live</strong> ✨  
+👉 <a href="https://22bq1a42d4.github.io/URL-Shortener/" target="_blank"><strong>Click to open the deployed app</strong></a>
+
+<a href="https://22bq1a42d4.github.io/URL-Shortener/" target="_blank">
+  <img src="https://img.shields.io/badge/-Open%20URL%20Shortener-black?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+</a>
+
+</div>
 
 ---
+
+🔗 Whether you're looking to:
+- Generate compact links for social media or sharing
+- Manage personal shortened URLs
+- Keep your data private (no cloud sync)
+- Work offline after first load
+
+This tool delivers everything — all in a **zero-setup, fast, and elegant experience**.
+
+
 
 ## ✨ Why This Project Stands Out
 
